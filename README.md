@@ -7,7 +7,7 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 KaoyaScreenshot-v1.0.3.exe。
 
 - 当前版本：v1.0.3
-- SHA-256：EF0FF8394876728FDE160834BB2AC66DA024217A0C155367D5801A5091D01799
+- SHA-256：D99A99DC1D54A60B5AEBC58E5A779996CC8843C6D7E01B64C8B3E7FDFE7C6E3B
 
 ## 说明
 
