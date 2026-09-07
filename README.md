@@ -4,10 +4,10 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 
 ## 下载
 
-请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 KaoyaScreenshot-v1.0.3.exe。
+请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 KaoyaScreenshot-v1.0.4.exe。
 
-- 当前版本：v1.0.3
-- SHA-256：D99A99DC1D54A60B5AEBC58E5A779996CC8843C6D7E01B64C8B3E7FDFE7C6E3B
+- 当前版本：v1.0.4
+- SHA-256：F248F9E116B803E98A984E9F95E34A2F0C782506F29C1A1119EAC4DD6B55571D
 
 ## 说明
 
@@ -22,5 +22,5 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 
 按 Alt+V 打开剪贴板历史，可查看文字、图片和文件记录；双击记录可重新复制，也可右键置顶、删除或清空。
 
-右键系统托盘图标，可修改截图热键、保存位置、暂停剪贴板记录、设置开机启动或退出软件。
+右键系统托盘图标，可检查并一键安装更新，也可修改截图热键、保存位置、暂停剪贴板记录、设置开机启动或退出软件。
 
