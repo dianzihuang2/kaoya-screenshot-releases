@@ -4,10 +4,10 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 
 ## 下载
 
-请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 KaoyaScreenshot-v1.0.4.exe。
+请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 KaoyaScreenshot-v1.0.5.exe。
 
-- 当前版本：v1.0.4
-- SHA-256：F248F9E116B803E98A984E9F95E34A2F0C782506F29C1A1119EAC4DD6B55571D
+- 当前版本：v1.0.5
+- SHA-256：201DCA8018E0B7DF740B92D540F6926BDC840E0E6CCFCA0BF7DDBE6A65C4C874
 
 ## 说明
 
@@ -17,6 +17,7 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 
 选区完成后：
 - √：复制到剪贴板并自动保存
+- 图钉：将选区贴到桌面；贴图可拖动，右键可复制、另存为或删除
 - 保存图标：选择位置另存为
 - ×、右键或 Esc：取消截图
 
