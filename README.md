@@ -4,11 +4,11 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 
 ## 下载
 
-请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 `KaoyaScreenshot-v1.0.5.exe`。
+请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 `KaoyaScreenshot.exe`。
 
-- 当前版本：v1.0.5
-- 文件大小：379,904 字节
-- SHA-256：3069D895DAD8A7AA0DDC3A09637F025B4A5EBAF359F3C99CB9A577EF556F6163
+- 当前版本：v1.0.8
+- 文件大小：401,920 字节
+- SHA-256：D8F4377A9CC903FADFB73CB91A7A425480E09BDB1AC0BCAC554910FA60756142
 
 ## 说明
 
@@ -30,7 +30,6 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 
 托盘菜单的“更新”子菜单提供：
 
-- **允许一键自动更新**：默认开启。关闭后，发现新版本时只打开下载页面，不自动下载、替换或重启程序。
 - **每 24 小时自动检查**：默认开启。关闭后，程序启动时不联网检查更新。
 - **立即检查更新...**：始终可用，不受自动检查开关影响。
 
