@@ -1,14 +1,14 @@
 # 烤鸭极简截图
 
-Windows 单文件截图与剪贴板历史工具的公开下载仓库。
+Windows 单文件截图、剪贴板历史与录屏工具的公开下载仓库。
 
 ## 下载
 
 请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 `KaoyaScreenshot.exe`。
 
-- 当前版本：v1.0.8
-- 文件大小：401,920 字节
-- SHA-256：D8F4377A9CC903FADFB73CB91A7A425480E09BDB1AC0BCAC554910FA60756142
+- 当前版本：v1.1.0
+- 文件大小：46,801,408 字节
+- SHA-256：84125678376FDC1700777D3F61B775117A01B41F7A6CDC60297255EB92FF3F5D
 
 ## 说明
 
@@ -24,7 +24,11 @@ Windows 单文件截图与剪贴板历史工具的公开下载仓库。
 
 按 Alt+V 打开剪贴板历史，可查看文字、图片和文件记录；双击记录可重新复制，也可右键置顶、删除或清空。
 
-右键系统托盘图标，可修改截图热键、保存位置、暂停剪贴板记录、设置开机启动或退出软件。
+右键系统托盘图标，可修改截图热键、保存位置、暂停剪贴板记录、设置开机启动或退出软件。v1.1.0 还支持独立录屏：主屏或单显示器选区、系统声音/麦克风、暂停、MP4 输出及帧率、画质、音频码率选择。
+
+## 源码与许可证
+
+录屏功能使用 OBS Studio。Release 同时提供 `KaoyaScreenshot-1.1.0-source.zip`；OBS 录屏引擎的对应源码与构建说明位于 [obs-kaoya 的 kaoya-v1.1.0 标签](https://github.com/dianzihuang2/obs-kaoya/tree/kaoya-v1.1.0)。该版本按 GPL-2.0-or-later 提供。
 
 ## 更新设置
 
