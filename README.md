@@ -6,13 +6,15 @@ Windows 单文件截图、剪贴板历史与录屏工具的公开下载仓库。
 
 请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 `KaoyaScreenshot.exe`。
 
-- 当前版本：v1.1.1
-- 文件大小：46,888,448 字节
-- SHA-256：BC5253361E9FE94FD90272A36D2D101B563EF5BD6C86CE01EB684D3C39A68691
+- 当前版本：v1.1.2
+- 文件大小：25,156,096 字节
+- SHA-256：E43CF681A665CF6C7D8DADF8D25F373BC96DEEE1BDA6BF47E957643138E0214A
 
 ## 说明
 
-双击运行软件，程序会常驻系统托盘。
+双击运行软件，程序会常驻系统托盘。左键单击托盘图标可打开剪贴板，关闭面板后可再次单击打开。
+
+支持按日期管理待办、月历和日子名称；便携 OCR 已停止提供。
 
 默认快捷键：
 - **Alt+A**：开始截图；移动鼠标选择窗口，按 Tab 切换窗口/元素模式，也可按住左键自由框选。
@@ -29,7 +31,7 @@ Windows 单文件截图、剪贴板历史与录屏工具的公开下载仓库。
 
 ## 源码与许可证
 
-录屏功能使用 OBS Studio。Release 同时提供 `KaoyaScreenshot-1.1.0-source.zip`；OBS 录屏引擎的对应源码与构建说明位于 [obs-kaoya 的 kaoya-v1.1.0 标签](https://github.com/dianzihuang2/obs-kaoya/tree/kaoya-v1.1.0)。该版本按 GPL-2.0-or-later 提供。
+录屏功能使用 OBS Studio。Release 同时提供 `KaoyaScreenshot-1.1.2-source.zip`；OBS 录屏引擎的对应源码与构建说明位于 [obs-kaoya 对应提交](https://github.com/dianzihuang2/obs-kaoya/tree/ed9b3cc19f13d4adebd50a77d49114ae712f6c01)。该版本按 GPL-2.0-or-later 提供。
 
 ## 更新设置
 
