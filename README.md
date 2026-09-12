@@ -7,8 +7,8 @@ Windows 单文件截图、剪贴板历史与录屏工具的公开下载仓库。
 请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 `KaoyaScreenshot.exe`。
 
 - 当前版本：v1.1.1
-- 文件大小：46,887,424 字节
-- SHA-256：04CE914ACBCEC1763397764A05859A28A073B2631415AAD7B611098315819673
+- 文件大小：46,888,448 字节
+- SHA-256：BC5253361E9FE94FD90272A36D2D101B563EF5BD6C86CE01EB684D3C39A68691
 
 ## 说明
 
