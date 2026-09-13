@@ -1,4 +1,4 @@
-﻿# 烤鸭箱
+# 烤鸭箱
 
 Windows 单文件截图、剪贴板历史、录屏与待办工具的公开下载仓库。原名“烤鸭极简截图”。
 
@@ -33,7 +33,7 @@ Windows 单文件截图、剪贴板历史、录屏与待办工具的公开下载
 
 ## 源码与许可证
 
-录屏功能使用 OBS Studio。Release 同时提供 `KaoyaScreenshot-1.1.3-source.zip`；OBS 录屏引擎的对应源码与构建说明位于 [obs-kaoya 对应提交](https://github.com/dianzihuang2/obs-kaoya/tree/ed9b3cc19f13d4adebd50a77d49114ae712f6c01)。该版本按 GPL-2.0-or-later 提供。
+录屏功能使用 OBS Studio。OBS 录屏引擎的对应源码与构建说明位于 [obs-kaoya 对应提交](https://github.com/dianzihuang2/obs-kaoya/tree/ed9b3cc19f13d4adebd50a77d49114ae712f6c01)。该版本按 GPL-2.0-or-later 提供。
 
 ## 更新设置
 

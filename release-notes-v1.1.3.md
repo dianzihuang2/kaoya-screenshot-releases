@@ -1,4 +1,4 @@
-﻿# 烤鸭箱 1.1.3
+# 烤鸭箱 1.1.3
 
 ## 更新功能
 
@@ -34,5 +34,4 @@
 - 包含 RECORDING 和 FEATURE_TODO；未包含已停止的 PORTABLE_OCR。
 - 录屏包 SHA-256：74799EEBEC38392FA0D3770897E4D9B444FEE75108C4BBCD8E387961739F745E
 - 录屏对应源码：https://github.com/dianzihuang2/obs-kaoya/tree/ed9b3cc19f13d4adebd50a77d49114ae712f6c01
-- 对应应用源码和构建材料以 KaoyaScreenshot-1.1.3-source.zip 随公开 Release 提供。
 - Verify-DockExpand.ps1、Verify-MinimizeRestore.ps1、Verify-GlobalTodos.ps1、Verify-TodoReminders.ps1、Verify-TodoStage2.ps1、Verify-Release.ps1、TodoReminderSelfTest.exe 及录屏自测全数通过。
