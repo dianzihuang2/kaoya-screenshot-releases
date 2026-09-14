@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "fileName": "KaoyaScreenshot.exe",
-  "downloadUrl": "https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/download/v1.1.4/KaoyaScreenshot.exe",
-  "sha256": "F8FB1BD4EA142377D65C97DE4A34F6F6288889B18322D637D3B7DC85675A1DA3",
-  "size": 25216512,
-  "releaseUrl": "https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/tag/v1.1.4"
+  "downloadUrl": "https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/download/v1.1.5/KaoyaScreenshot.exe",
+  "sha256": "FD53AB8112083175BF1AD22EEB5CFD975616C190821076B4E1886C214BC15D9A",
+  "size": 25220608,
+  "releaseUrl": "https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/tag/v1.1.5"
 }
