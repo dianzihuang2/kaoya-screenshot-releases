@@ -6,14 +6,14 @@ Windows 单文件截图、剪贴板历史、录屏与待办工具。原名“烤
 
 请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 `KaoyaScreenshot.exe`。
 
-- 当前版本：v1.1.6
-- 文件大小：34,353,664 字节
-- SHA-256：BF8007725AC4F9B7B5F3123B6C5808F9D35672CA5682878DFB28A0A79B555E22
+- 当前版本：v1.1.7
+- 文件大小：34,356,736 字节
+- SHA-256：F9284F8B691E116295706424DF1794A233C09B200CDC9CA8C6EEE75C860634DB
 
 ## 功能
 
 - Alt+A：截图并复制、保存或贴图。
-- Alt+Q：打开剪贴板面板，分别管理文字、图片、文件和待办；支持透明度、贴边吸附、展示区收起/展开和 Windows 任务栏最小化。
+- Alt+Q：打开剪贴板面板，分别管理文字、图片、文件和待办；支持透明度、贴边吸附、展示区缩放固定和 Windows 任务栏最小化。
 - Alt+W：启动独立录屏，支持选区、系统声音、麦克风和 MP4 输出。
 - 剪贴板面板支持默认、酷拉皮卡和 Chiikawa 主题；每次启动使用默认主题。
 - 待办支持日期、月历、日子名称和提醒。
