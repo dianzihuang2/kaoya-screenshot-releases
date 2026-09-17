@@ -7,8 +7,8 @@ Windows 单文件截图、剪贴板历史、录屏与待办工具。原名“烤
 请从 [Releases](https://github.com/dianzihuang2/kaoya-screenshot-releases/releases/latest) 下载 `KaoyaScreenshot.exe`。
 
 - 当前版本：v1.1.8
-- 文件大小：38,382,080 字节
-- SHA-256：003EDB2BA6A64AC5355E7EF256D40468AFAE623799E0E31E9FE23ED7E186B94D
+- 文件大小：38,383,104 字节
+- SHA-256：58DA8E431E96457EE4CD204E72E3C8286A207F83F34E2F851B065C7677F81883
 
 ## 功能
 
